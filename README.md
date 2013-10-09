@@ -15,8 +15,8 @@ Removes span tags to avoid HTML5 Validation error cause by unsupported attribute
 Useage:
 
 On each aspx page include the following:
-<%@ Register TagPrefix="asp" 
-    Namespace="ActiveServerControls"%>
+
+<%@ Register TagPrefix="asp" Namespace="ActiveServerControls"%>
     
 You may than use the grid view as below:
-<asp:Html5GridView id="gridView" runat="Server"></asp:Html5GridView>
+// <asp:Html5GridView id="gridView" runat="Server"></asp:Html5GridView>
