@@ -21,4 +21,4 @@ On each aspx page include the following:
 
 <%@ Register TagPrefix="asp" Namespace="ActiveServerControls"%>
     
-You may than use the grid view as you had replacing GridView with Html5GridView
+You may then use the grid view as you had replacing GridView with Html5GridView
